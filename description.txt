@@ -1,0 +1,4 @@
+The pclip script is to create
+a quick and easy ascii art
+word bubble from a paperclip
+because, why not?
